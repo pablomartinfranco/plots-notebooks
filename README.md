@@ -1,6 +1,6 @@
 ### Upgrade pip
 
-for installing packages into pypy allways update to latest pip
+when installing packages into pypy allways update to latest pip
 
 cd venv/Scripts/
 
